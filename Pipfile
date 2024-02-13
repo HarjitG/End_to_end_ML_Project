@@ -4,6 +4,20 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pandas = "*"
+mlflow = "==2.2.2"
+ipynb = "*"
+numpy = "*"
+matplotlib = "*"
+scikit-learn = "*"
+python-box = "==6.0.2"
+pyyaml = "*"
+tqdm = "*"
+ensure = "==1.0.2"
+joblib = "*"
+types-pyyaml = "*"
+flask = "*"
+flask-cors = "*"
 
 [dev-packages]
 
