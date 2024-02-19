@@ -18,6 +18,7 @@ joblib = "*"
 types-pyyaml = "*"
 flask = "*"
 flask-cors = "*"
+ipykernel = "*"
 
 [dev-packages]
 
